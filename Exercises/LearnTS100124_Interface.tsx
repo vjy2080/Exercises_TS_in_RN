@@ -182,9 +182,9 @@ const LearnTS100124_Interface = () => {
 
     return (
         <View>
-            <Text>LearnTS100124-Interface</Text>
-            <Text>Open Console for Results</Text>
-            <Text>This is also known as "duck typing" or "structural subtyping".</Text>
+            <Text style={{ color: 'white' }}>LearnTS100124-Interface</Text>
+            <Text style={{ color: 'white' }}>Open Console for Results</Text>
+            <Text style={{ color: 'white' }}>This is also known as "duck typing" or "structural subtyping".</Text>
         </View>
     );
 }

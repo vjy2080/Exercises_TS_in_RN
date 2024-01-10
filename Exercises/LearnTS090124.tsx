@@ -257,8 +257,8 @@ const LearnTS090124 = () => {
 
     return (
         <View>
-            <Text>LearnTS090124</Text>
-            <Text>Open Console for Results</Text>
+            <Text style={{ color: 'white' }}>LearnTS090124</Text>
+            <Text style={{ color: 'white' }}>Open Console for Results</Text>
         </View>
     );
 }
